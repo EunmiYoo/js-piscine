@@ -1,0 +1,10 @@
+h1{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.checked {
+    color: grey;
+    text-decoration-line: line-through;
+  }

@@ -1,0 +1,15 @@
+input{ 
+    width: 60%;
+    height: 30px;    
+    border: 1px solid black; 
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+}
+
+button{
+    margin: 10px;
+}
